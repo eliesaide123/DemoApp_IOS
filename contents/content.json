@@ -1,0 +1,149 @@
+{
+  "Contents": {
+    "RegexExpression": {
+      "IBAN":{
+        "v": "^LB\\d{2}\\d{4}\\d{4}\\d{14}$"
+      }
+    },
+    "LoginScreen": {
+      "HeaderContainer": {
+        "en": "WELCOME BACK",
+        "ar": ""
+      },
+      "HeaderContainerSubText": {
+        "en": "Please login to your account",
+        "ar": ""
+      },
+      "DQ_TextBoxUserID": {
+        "en": "Web User ID",
+        "ar": ""
+      },
+      "DQ_TextBoxPassword": {
+        "en": "Password",
+        "ar": ""
+      },
+      "DQ_RegisterPhrase": [{
+         "en": "Don't Have an account?",
+         "ar": ""
+      },
+      {
+        "en": "Register Now",
+        "ar": ""
+      }],
+      "DQ_ProceedAsAGuest": {
+        "en": "Proceed As A Guest",
+        "ar": ""
+      }
+    },
+    "RegistrationScreen":{
+      "HeaderContainer":{
+        "en":"Welcome",
+        "ar":""
+      },
+      "HeaderContainerSubText":{
+        "en":"Please enter your policy details",
+        "ar":""
+      },
+      "DQ_TextBoxPolicyNumber": {
+        "en": "Policy Number",
+        "ar": ""
+      },
+      "DQ_TextBoxPolicyNumberHintText": {
+        "en": "Example: ABC/123456",
+        "ar": ""
+      },
+      "DQ_TextBoxPolicyExpiry": {
+        "en": "Policy Expiry",
+        "ar": ""
+      },
+      "DQ_TextBoxYourPin": {
+        "en": "Your PIN",
+        "ar": ""
+      },
+      "DQ_TextBoxYourPinHintText": {
+        "en": "Can be found on your policies",
+        "ar": ""
+      },
+      "DQ_TextBoxEmail": {
+        "en": "Email",
+        "ar": ""
+      },
+      "DQ_TextBoxMobileNumber": {
+        "en": "Mobile Number",
+        "ar": ""
+      },
+      "DQ_TextBoxMobileNumberHintText": {
+        "en": "Example: +9613111222",
+        "ar": ""
+      },
+      "DQ_TextBoxUserID": {
+        "en": "Web User ID",
+        "ar": ""
+      },
+      "DQ_TextBoxUserIDHintText": {
+        "en": "Choose your Web User ID",
+        "ar": ""
+      },
+      "DQ_TextBoxPassword": {
+        "en": "Password",
+        "ar": ""
+      },
+      "DQ_TextBoxConfirmPassword": {
+        "en": "Confirm Password",
+        "ar": ""
+      },
+      "DQ_ButtonRegister":{
+        "en":"Register",
+        "ar":""
+      },
+      "DQ_IAgreePhrase": [{
+         "en": "I agree to the",
+         "ar": ""
+      },
+      {
+        "en": "Terms and Conditions",
+        "ar": ""
+      }],
+      "DQ_LoginPhrase": [{
+         "en": "Already have an account?",
+         "ar": ""
+      },
+      {
+        "en": "Login here",
+        "ar": ""
+      }]
+    },
+    "ChangeRole":{
+      "RoleTxt":{
+        "en":"Please choose the role you wish to access",
+        "ar":""
+      }
+    },
+    "AgentSearchScreen":{
+      "FirstName":{
+        "en":"First Name",
+        "ar":""
+      },
+      "FathesName":{
+        "en":"Father's Name",
+        "ar":""
+      },
+      "LastName":{
+        "en":"Last Name",
+        "ar":""
+      },
+      "PolicyNumber":{
+        "en":"Policy Number",
+        "ar":""
+      },
+      "HintTextPolicyNumber":{
+        "en":"Example: MAR/126478754",
+        "ar":""
+      },
+      "Pin":{
+        "en":"Your Pin",
+        "ar":""
+      }
+    }
+  }
+}

@@ -1,0 +1,4385 @@
+[
+	{
+		"_id": "6736f3f30f20fdc561df7b76",
+		"Tag": "mobile_req_str",
+		"English": "Mobile number is required. ",
+		"Arabic": null,
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7b77",
+		"Tag": "pass_req_str",
+		"English": "Password is required",
+		"Arabic": "كلمة المرور مطلوبة",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7b78",
+		"Tag": "login_welcome_str",
+		"English": "WELCOME BACK",
+		"Arabic": "مرحبا بعودتك",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7b79",
+		"Tag": "login_to_your_acc",
+		"English": "Please login to your account",
+		"Arabic": "يرجى تسجيل الدخول إلى حسابك",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7b7a",
+		"Tag": "web_user_id",
+		"English": "Web User ID",
+		"Arabic": null,
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7b7b",
+		"Tag": "pass_str",
+		"English": "Password",
+		"Arabic": "كلمة المرور",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7b7c",
+		"Tag": "login_str",
+		"English": "Login",
+		"Arabic": "تسجيل الدخول",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7b7d",
+		"Tag": "dont_have_acc",
+		"English": "Don't have an account?",
+		"Arabic": "ليس لديك حساب؟",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7b7e",
+		"Tag": "register_now_str",
+		"English": "Register now",
+		"Arabic": "سجل الان",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7b7f",
+		"Tag": "guest_mode_str",
+		"English": "PROCEED AS A GUEST",
+		"Arabic": "المتابعة كضيف",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7b80",
+		"Tag": "code_required_str",
+		"English": "Enter the code sent to your mobile",
+		"Arabic": "أدخل رمز التحقق المرسل إلى رقم الجوال",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7b81",
+		"Tag": "proceed_str",
+		"English": "Proceed",
+		"Arabic": "المتابعة",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7b82",
+		"Tag": "verification_sent_str",
+		"English": "A veriﬁcation code has been sent to",
+		"Arabic": "تم إرسال رمز التحقق إلى",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7b83",
+		"Tag": "ddnt_receive_code_str",
+		"English": "Didn't receive the code?",
+		"Arabic": "لم يصلك الرمز؟",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7b84",
+		"Tag": "request_again_str",
+		"English": "Request again",
+		"Arabic": "اطلب مرة أخرى",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7b85",
+		"Tag": "retype_pass_str",
+		"English": "Confirm Password",
+		"Arabic": "اعد ادخال كلمة المرور",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7b86",
+		"Tag": "verify_proceed_str",
+		"English": "Verify and Proceed",
+		"Arabic": "تحقق وتابع",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7b87",
+		"Tag": "go_to_email_str",
+		"English": "Go to email",
+		"Arabic": "اذهب إلى البريد الإلكتروني",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7b88",
+		"Tag": "welcome_str",
+		"English": "WELCOME",
+		"Arabic": "أهلا بك",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7b89",
+		"Tag": "enter_policy_title_str",
+		"English": "Please enter your policy details",
+		"Arabic": "من فضلك أدخل تفاصيل وثيقتك",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7b8a",
+		"Tag": "policy_number_str",
+		"English": "Policy Number",
+		"Arabic": "رقم الوثيقة",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7b8b",
+		"Tag": "policy_expiry_str",
+		"English": "Policy Expiry",
+		"Arabic": "انتهاء صلاحية الوثيقة",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7b8c",
+		"Tag": "pin_str",
+		"English": "Your PIN",
+		"Arabic": null,
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7b8d",
+		"Tag": "email_str",
+		"English": "Email",
+		"Arabic": "بريد الالكتروني",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7b8e",
+		"Tag": "mobile_str",
+		"English": "Mobile Number",
+		"Arabic": "رقم الجوال",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7b8f",
+		"Tag": "agree_to_str",
+		"English": "I agree to the",
+		"Arabic": "أنا أوافق على",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7b90",
+		"Tag": "already_have_acc_str",
+		"English": "Already have an account?",
+		"Arabic": "هل لديك حساب؟",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7b91",
+		"Tag": "terms_cond_str",
+		"English": "Terms and Conditions",
+		"Arabic": "الأحكام والشروط",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7b92",
+		"Tag": "register_str",
+		"English": "Register",
+		"Arabic": "تسجيل",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7b93",
+		"Tag": "login_here_str",
+		"English": "Login here",
+		"Arabic": "تسجيل الدخول من هنا",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7b94",
+		"Tag": "mobile_verification_str",
+		"English": "MOBILE VERIFICATION",
+		"Arabic": "التحقق من الهاتف المحمول",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7b95",
+		"Tag": "ok_str",
+		"English": "OK",
+		"Arabic": "حسنا",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7b96",
+		"Tag": "acc_success_verified",
+		"English": "Your account has been successfully verified",
+		"Arabic": "تم التحقق من حسابك بنجاح",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7b97",
+		"Tag": "pass_successfully_changed",
+		"English": "Your password has been successfully changed.",
+		"Arabic": "تم تغيير كلمة مرورك بنجاح.",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7b98",
+		"Tag": "change_pass_str",
+		"English": "CHANGE PASSWORD",
+		"Arabic": "تغيير كلمة السر",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7b99",
+		"Tag": "new_pass_str",
+		"English": "New Password",
+		"Arabic": "كلمة المرور الجديدة",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7b9a",
+		"Tag": "old_pass_str",
+		"English": "Old Password",
+		"Arabic": "كلمة المرور القديمة",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7b9b",
+		"Tag": "save_str",
+		"English": "Save",
+		"Arabic": "احفظ",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7b9c",
+		"Tag": "pass_successfully_changed",
+		"English": "Password successfully changed",
+		"Arabic": "تم تغيير كلمة المرور بنجاح",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7b9d",
+		"Tag": "choose_role_str",
+		"English": "PLEASE CHOOSE THE ROLE YOU WISH TO ACCESS",
+		"Arabic": "يُرجى اختيار الدور الذي ترغب في الوصول إليه",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7b9e",
+		"Tag": "email_req_str",
+		"English": "Email is required",
+		"Arabic": " البريد الإلكتروني  مطلوب",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7b9f",
+		"Tag": "policy_req_str",
+		"English": "Policy number required",
+		"Arabic": "رقم الوثيقة مطلوب",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7ba0",
+		"Tag": "pin_req_str",
+		"English": "Pin Required",
+		"Arabic": "رقم التعريف الشخصي مطلوب",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7ba1",
+		"Tag": "terms_cond_agree_str",
+		"English": "Make sure you agree on terms and conditions",
+		"Arabic": "تأكد من موافقتك على الشروط والأحكام",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7ba2",
+		"Tag": "edit_profile_str",
+		"English": "EDIT PROFILE",
+		"Arabic": "تعديل الملف الشخصي",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7ba3",
+		"Tag": "choose_photo_str",
+		"English": "Choose Photo",
+		"Arabic": "اختر الصورة",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7ba4",
+		"Tag": "take_photo_str",
+		"English": "Take Photo",
+		"Arabic": "التقط صورة",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7ba5",
+		"Tag": "valid_email_str",
+		"English": "Please enter valid email",
+		"Arabic": "يرجى إدخال بريد إلكتروني صالح",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7ba6",
+		"Tag": "profile_will_update_str",
+		"English": "Your profile info will be updated with the below:",
+		"Arabic": "سيتم تحديث معلومات ملفك الشخصي على النحو التالي:",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7ba7",
+		"Tag": "confirm_pass_below_str",
+		"English": "Please confirm your password:",
+		"Arabic": "يرجى التأكد من صحة كلمة المرور الخاصة بك:",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7ba8",
+		"Tag": "profile_update_success_str",
+		"English": "Your profile has been successfully updated.",
+		"Arabic": "تم تحديث ملفك الشخصي بنجاح.",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7ba9",
+		"Tag": "search_by_str",
+		"English": "Search by",
+		"Arabic": "البحث عن",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7baa",
+		"Tag": "search_str",
+		"English": "Search",
+		"Arabic": "ابحث",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7bab",
+		"Tag": "select_type_str",
+		"English": "Select the type",
+		"Arabic": "اختر النوع",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7bac",
+		"Tag": "name_str",
+		"English": "Name",
+		"Arabic": "الاسم",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7bad",
+		"Tag": "search_by_name_required_str",
+		"English": "Name is Required",
+		"Arabic": "الاسم مطلوب",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7bae",
+		"Tag": "first_name_str",
+		"English": "First name",
+		"Arabic": "الاسم الأول",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7baf",
+		"Tag": "father_name_str",
+		"English": "Father's name",
+		"Arabic": "اسم الاب",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7bb0",
+		"Tag": "last_name_str",
+		"English": "Last name",
+		"Arabic": "اسم العائلة",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7bb1",
+		"Tag": "first_name_required_str",
+		"English": "First name is required",
+		"Arabic": "الاسم الأول مطلوب",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7bb2",
+		"Tag": "min_3_chars_str",
+		"English": "Minumim 3 Characters",
+		"Arabic": "الحد الأدنى 3 أحرف",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7bb3",
+		"Tag": "no_data_found_str",
+		"English": "No Data Found",
+		"Arabic": "لاتوجد بيانات",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7bb4",
+		"Tag": "at_least_one_req_str",
+		"English": "At least one field is required",
+		"Arabic": "مطلوب حقل واحد على الأقل",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7bb5",
+		"Tag": "search_by_pin_req",
+		"English": "Enter Pin Number",
+		"Arabic": "أدخل الرقم السري",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7bb6",
+		"Tag": "notif_str",
+		"English": "Notifications",
+		"Arabic": "الإشعارات",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7bb7",
+		"Tag": "user_id_req_str",
+		"English": "Web User ID is required",
+		"Arabic": "معرف مستخدم الويب مطلوب",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7bb8",
+		"Tag": "home_str",
+		"English": "Home",
+		"Arabic": "الصفحة الرئيسية",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7bb9",
+		"Tag": "inbox_str",
+		"English": "Notifications",
+		"Arabic": "الإشعارات",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7bba",
+		"Tag": "about_us_str",
+		"English": "About us",
+		"Arabic": "من نحن",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7bbb",
+		"Tag": "privacy_policy_str",
+		"English": "Privacy Policy",
+		"Arabic": null,
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7bbc",
+		"Tag": "contact_us_str",
+		"English": "Contact Us",
+		"Arabic": "تواصل معنا",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7bbd",
+		"Tag": "call_str",
+		"English": "Call",
+		"Arabic": "اتصل",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7bbe",
+		"Tag": "chat_str",
+		"English": "Chat with us",
+		"Arabic": null,
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7bbf",
+		"Tag": "email_us_str",
+		"English": "Email",
+		"Arabic": "راسلنا",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7bc0",
+		"Tag": "logout_str",
+		"English": "Logout",
+		"Arabic": "تسجيل الخروج",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7bc1",
+		"Tag": "my_policies_str",
+		"English": "My Policies",
+		"Arabic": "بوالصي",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7bc2",
+		"Tag": "quote_str",
+		"English": "Quote",
+		"Arabic": "تصريح",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7bc3",
+		"Tag": "more_str",
+		"English": "More",
+		"Arabic": "المزيد",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7bc4",
+		"Tag": "settings_str",
+		"English": "Settings",
+		"Arabic": "الإعدادات",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7bc5",
+		"Tag": "login_to_features",
+		"English": "Log in to use all features",
+		"Arabic": "سجل الدخول لاستخدام كل الميزات",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7bc6",
+		"Tag": "experts_list_str",
+		"English": "List of Experts",
+		"Arabic": "قائمة الخبراء",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7bc7",
+		"Tag": "workshop_list_str",
+		"English": "List of Workshops",
+		"Arabic": "قائمة الورش",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7bc8",
+		"Tag": "branches_list_str",
+		"English": "Our branches",
+		"Arabic": "فروعنا",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7bc9",
+		"Tag": "emergency_list_str",
+		"English": "Emergency Numbers",
+		"Arabic": "أرقام الطوارئ",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7bca",
+		"Tag": "hospitals_list_str",
+		"English": "List of Hospitals",
+		"Arabic": "قائمة المستشفيات",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7bcb",
+		"Tag": "atms_list_str",
+		"English": "List of ATMs",
+		"Arabic": "قائمة أجهزة الصراف الآلي",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7bcc",
+		"Tag": "light_mode_str",
+		"English": "Light mode",
+		"Arabic": "الوضع المضيء",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7bcd",
+		"Tag": "dark_mode_str",
+		"English": "Dark mode",
+		"Arabic": "الوضع الداكن",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7bce",
+		"Tag": "skip_str",
+		"English": "SKIP",
+		"Arabic": "تخطى",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7bcf",
+		"Tag": "next_str",
+		"English": "Next",
+		"Arabic": "التالي",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7bd0",
+		"Tag": "get_started_str",
+		"English": "Get Started",
+		"Arabic": "ابدأ",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7bd1",
+		"Tag": "back_str",
+		"English": "Back",
+		"Arabic": "رجوع",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7bd2",
+		"Tag": "lang_str",
+		"English": "Languages",
+		"Arabic": "اللغات",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7bd3",
+		"Tag": "cancel_str",
+		"English": "Cancel",
+		"Arabic": "إلغاء",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7bd4",
+		"Tag": "no_data_available_str",
+		"English": "No Data Available",
+		"Arabic": "لا توجد بيانات",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7bd5",
+		"Tag": "guest_txt_home_str",
+		"English": "Data Quest is an IT consulting firm specialized in application software development for insurance market. Dedicated to product excellence and customer service, the company was established in the year 1983, with the main purpose of helping clients bring added value to their organizations. Seeking nothing less than excellency, we are among those professionals committed best to the core values of creativity, product success, and teamwork.  ----- https://www.google.com ---- 71111111 ----  email@gmail.com",
+		"Arabic": "داتا كويست هي شركة استشارية في مجال تكنولوجيا المعلومات متخصصة في التطبيق تطوير البرمجيات لسوق التأمين. مخصص للمنتج التميز وخدمة العملاء ، تأسست الشركة في عام 1983 ، بهدف رئيسي هو مساعدة العملاء على جلب القيمة المضافة لمنظماتهم. لا تسعى أقل من التميز ، نحن من بين أولئك المهنيين الملتزمين بشكل أفضل القيم الأساسية للإبداع ونجاح المنتج والعمل الجماعي ",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7bd6",
+		"Tag": "change_role_str",
+		"English": "Change Role",
+		"Arabic": "تغيير الدور",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7bd7",
+		"Tag": "privacy_policy_content",
+		"English": "SNA S.A.L., insurance company incorporated under the Lebanese laws with fully paid capital of 42.018.750.000 LP, registered at the commercial register of Beirut under No 12461, and in the Insurance Companies register under No 104, date 23.3.1963, as per decree No 177/1 and subject to Legislative decree No 9812 dated 4.5.1968, MOF number 4698, having its address in SNA Bldg, Hazmieh, P.O.Box 16-6528, Beirut, Lebanon. Tel:009615422000  General Please read this legal notice carefully before using this application.  The purpose of the present notice is to define the conditions under which SNA S.A.L. makes its application available to users and the conditions under which users may have access to and use the application.  By accessing this application and using its content, you acknowledge and agree that you have read and understood the following terms of use which SNA S.A.L. reserves the right to modify or update at any time and agree to be bound by them. Do not use the application if you do not agree with these terms of use.  Use of Content The content of this application is provided for informational purposes only and is not exhaustive.  SNA S.A.L. makes every effort to provide the most up-to-date information in this application. However, SNA S.A.L. does not provide advice of any nature, and shall not be responsible for the accuracy of the information presented herein, your reliance thereon or its consequences. Use of the information and data contained in this application is entirely at your own risk and discretion.  Copyright  All content of this application is protected by copyright with all rights reserved. All rights to the screens, content and arrangement are owned by SNA S.A.L. You are prohibited from copying, modifying, displaying, distributing, transmitting, redelivering through the use of \"framing\" technology, publishing, selling, licensing, creating derivative works or using any content, trademark or logo for any purpose without the prior written approval of SNA S.A.L.    Warranty All content of this application, including, but not limited to, graphics, text and hyperlinks or references to other sites, is subject to alteration without prior notice and is provided \"as is\" and without warranty of any kind, express or implied, including, but not limited to, implied warranties of merchantability, fitness for a particular purpose, non-infringement and freedom from computer viruses or other harmful components.  We do not warrant that the functions of the application will be uninterrupted and/or error-free, that defects will be corrected or that the application that make them available are free from computer viruses or other harmful components.  Disclaimer We expressly disclaim any liability, whether in contract, tort, strict liability or otherwise, for any direct, indirect, incidental, consequential, punitive or special damages arising out of or in any way connected with your accessing or using or inability to access or use the application or your reliance on its content, or any failure of performance, interruption, defect, delay in transmission, computer viruses or other harmful components, or line or system failure associated with the application, regardless of our knowledge thereof.  Hyperlinked and Referenced Websites For your convenience certain hyperlinks or referenced websites in this application may take you to third parties' websites, which are generally recognized by their top level domain name. Their content has not been investigated or analyzed by us, and we do not warrant the adequacy, accuracy, reliability or completeness of any information on hyperlinked or referenced websites and expressly disclaim any liability for any and all of their content.  By accessing this application, you also agree to abide by the proprietary guidelines applicable to any website accessed or hyperlinked through this application.  Privacy SNA S.A.L. takes its responsibilities regarding privacy of visitor information very seriously. Please refer to the Privacy Notice to better understand how we use any Personal Information given by you via this application and how we protect your privacy.  Tracking We use tracking software to monitor customer usage patterns to help us develop the design and layout of the application. This software does not enable us to capture any personally identifying information.  Reservation of Rights We reserve the right to change, modify, add to, or remove portions of these terms of use at any time.  Jurisdiction, Applicable law Any disputes relating to the application or to these terms shall be brought before the court located in Lebanon and will be governed and analyzed according to Lebanese law, on their merits, independently of the rules concerning conflicting legislation. Use of the application indicates your express agreement to submit to the exclusive jurisdiction of those courts and further agreement that they are a convenient forum for you.   In the event that any provision of these terms is held unenforceable, the validity or enforceability of the remaining provisions will not be affected, and the unenforceable provision will be replaced with an enforceable provision that comes close to the intention underlying the unenforceable provision.",
+		"Arabic": "\"داتا كويست هي شركة استشارية في مجال تكنولوجيا المعلومات متخصصة في تطوير برامج التطبيقات لسوق التأمين. مكرسة للتميز في المنتج وخدمة العملاء ، تأسست الشركة في عام 1983 ، بهدف رئيسي هو مساعدة العملاء على تحقيق قيمة مضافة لمنظماتهم. لا نسعى بأقل من التميز ، فنحن من بين هؤلاء المهنيين الملتزمين بشكل أفضل بالقيم الأساسية للإبداع ونجاح المنتج والعمل الجماعي. وفقًا لبيان مهمتنا ، نود أن نفكر في أنفسنا على أنهم: \"\"مقدمو الحلول\"\" حيث يتم طلب المشورة المهنية والموضوعية ، و \"\"رواد الأعمال\"\" لأولئك الذين يحتاجون إلى الجودة والفعالية. تغطي مجالات خبرتنا سوق التأمين واستشارات تكنولوجيا المعلومات وتطوير البرمجيات والأنظمة.\"",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7bd8",
+		"Tag": "go_to_str",
+		"English": "Go To Direction",
+		"Arabic": "اذهب إلى الاتجاه",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7bd9",
+		"Tag": "try_again_str",
+		"English": "Try Again",
+		"Arabic": "حاول مرة أخرى",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7bda",
+		"Tag": "webuser_required",
+		"English": "",
+		"Arabic": "",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7bdb",
+		"Tag": "pay_now_str",
+		"English": "Pay now",
+		"Arabic": "ادفع الآن",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7bdc",
+		"Tag": "payment_greater_alert",
+		"English": "Payment cannot be greater than total amout",
+		"Arabic": "لا يمكن أن تكون الدفعة أكبر من المبلغ الإجمالي",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7bdd",
+		"Tag": "clear_all_str",
+		"English": "Clear All",
+		"Arabic": "امسح الكل",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7bde",
+		"Tag": "premium_selected_str",
+		"English": "Premium selected",
+		"Arabic": "قسط محدد",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7bdf",
+		"Tag": "premiums_selected_str",
+		"English": "Premiums selected",
+		"Arabic": "أقساط محددة",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7be0",
+		"Tag": "fresh_nonFresh_str",
+		"English": "Cannot add fresh/non fresh within the same payment session",
+		"Arabic": "لا يمكن إضافة دولار أمريكي فريش / غير فريش في نفس جلسة الدفع",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7be1",
+		"Tag": "fresh_str",
+		"English": "Fresh",
+		"Arabic": "فريش",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7be2",
+		"Tag": "different_currencies_str",
+		"English": "Cannot pay different currencies within the same payment session",
+		"Arabic": "لا يمكن دفع عملات مختلفة خلال جلسة الدفع نفسها",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7be3",
+		"Tag": "negative_pay_not_allowed",
+		"English": "Negative Payment is not allowed",
+		"Arabic": "الدفع السلبي غير مسموح به",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7be4",
+		"Tag": "premium_str",
+		"English": "Premium",
+		"Arabic": "القسط",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7be5",
+		"Tag": "amount_str",
+		"English": "Amount",
+		"Arabic": "المبلغ",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7be6",
+		"Tag": "payment_str",
+		"English": "Payment",
+		"Arabic": "الدفع",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7be7",
+		"Tag": "add_to_payment_str",
+		"English": "Settle Premium in Full",
+		"Arabic": "أضف إلى الدفع",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7be8",
+		"Tag": "locked_str",
+		"English": "Locked",
+		"Arabic": "مقفل",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7be9",
+		"Tag": "due_date_str",
+		"English": "Due Date",
+		"Arabic": "تاريخ الاستحقاق",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7bea",
+		"Tag": "premiums_payment_str",
+		"English": "Premiums Payment",
+		"Arabic": "دفع أقساط التأمين",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7beb",
+		"Tag": "min_chars_str",
+		"English": "Minimum 6 characters",
+		"Arabic": "الحد الأدنى 6 أحرف",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7bec",
+		"Tag": "beneficiary_str",
+		"English": "Beneficiary",
+		"Arabic": "المستفيد",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7bed",
+		"Tag": "policy_claims_str",
+		"English": "Policy Claims",
+		"Arabic": "مطالبات السياسة",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7bee",
+		"Tag": "due_premiums_str",
+		"English": "Due Premiums",
+		"Arabic": "الأقساط المستحقة",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7bef",
+		"Tag": "legal_address_str",
+		"English": "Legal Address",
+		"Arabic": "العنوان القانوني",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7bf0",
+		"Tag": "go_to_direction_str",
+		"English": "Go To Direction",
+		"Arabic": "اذهب إلى الاتجاه",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7bf1",
+		"Tag": "delete_str",
+		"English": "Delete",
+		"Arabic": "حذف",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7bf2",
+		"Tag": "unread_str",
+		"English": "Unread",
+		"Arabic": "غير مقروء",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7bf3",
+		"Tag": "read_str",
+		"English": "Read",
+		"Arabic": "مقروء",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7bf4",
+		"Tag": "terms_conditions_txt",
+		"English": "We care about your personal data SNA s.a.l. (“we, “us” or “our”) is a Lebanese authorized insurance company providing insurance products and services.Protecting your privacy is a top priority for us. This privacy notice explains how and what type of personal data will be collected, why it is collected, to whom it is shared or disclosed and your rights in this regard.Please read this notice carefully1. Who is the data controller?A data controller is the individual or legal person who controls and is responsible to keep and use personal data in paper or electronic files. We are the data controller as defined by relevant data protection laws and regulation.2. What personal data will be collected?We will collect and process various types of personal data about you, as follows:• Full name• Age/Date of Birth• Gender• Address• Contact details (e.g., email address and telephonenumbers)• Identification Document number (i.e., passportnumber)• Identification Document• Nationality• Marital Status• Driving license details• Tax Residency• TIN Number• Occupation• Current employment information• Previous employment information• Dependents/Spouse/Partner/Family Details• SignatureWe will also collect and process “sensitive personal data” about you, for example, data resulting from medical reports or from death certificates, your medical claims history, details of physical and psychological health or medical conditions, credit/debit card and bank account details.3. How will we obtain and use your personal data?We usually collect your personal information from you or your agents.We may also collect your personal data from:• Our agents, brokers, and business partners;• Other insurers and insurance reference bureaus;• Medical providers;• Loss adjustors or surveyors;• People who are involved in a claim or assist us in investigating or processing claims, including third parties claiming under your policy, witnesses, and medical practitioners;• Fraud prevention agencies;• Search information providers;• Your employer;• Third parties who may be arranging insurance cover for a group that you are part of;• Law enforcement;• Dispute resolution, statutory, and regulatory bodies;• Lawyers;• Marketing lists and industry databases; and• Publicly available sources. We will use your personal data provided to us for a number of purposes including but not limited to the below:• For insurance contract administration (e.g., quotation,underwriting, and claims handling);• For conducting market research and analytical purposes, and to assist us improving our processes, services, and products;• To inform you about our events, services, products, and news;• For fraud, money laundering, and terrorist financing detection and prevention; and• To comply with any legal obligations (e.g., tax, accounting, and administrative obligations).We will inform you where we require your consent to process your personal data. Otherwise, we will process your personal data to meet our legitimate business interest or where it is needed to comply with a legal obligation. In addition, we may also process your personal data to enter into a contract with you or to perform our obligations under an existing contract with you.We will need your personal data if you would like to purchase our products and services. If you do not wish to provide this to us, we may not be able to provide the products and services you request, that you may be interested in, or to tailor our offerings to your particular requirements.4. Who will have access to your personal data?We will ensure that your personal data is processed in a manner that is compatible with the purposes indicated above.For the stated purposes, your personal data may be disclosed to the following parties who operate as third party data controllers:• Public authorities;• IT developer companies;• Our agents;• Other insurers, co-insurers, re-insurers, and insurance intermediaries/brokers;• Medical providers;• Insurance fraud investigators;• Screening providers; and• Banks.For the stated purposes, we may also share your personal data with the following parties who operate as data processors under our instruction:• Technical consultants, experts, lawyers, loss adjusters, auditors and medical doctors; and• Service companies to discharge operations (e.g., claims, IT, postal, and document management); and• Advertisers and advertising networks to send youmarketing communications, as permitted under locallaw.We do not share your personal data with non-affiliated third parties for their own marketing use without your permission.Finally, we may share your personal data in the following instances:• In the event of any contemplated or actual reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business, assets or stock (including any insolvency or similar proceedings); and• To meet any legal obligation, including to the relevant ombudsman if you make a complaint about the product or service we have provided to you.5. Where will your personal data be processed?Your personal data may be processed both inside and outside Lebanon by the parties specified in Section 4 above, subject always to contractual restrictions regarding confidentiality and security in line with applicable local data protection laws and regulations. 6. What are your rights in respect of your personal data?Where permitted by applicable law or regulation, you have the right to:• Access your personal data held about you and to learn the origin of the data, the purposes and ends of the processing, the details of the data controller(s), the data processor(s) and the parties to whom the data may be disclosed;• Withdraw your consent at any time where your personal data is processed with your consent;• Update or correct your personal data so that it is always accurate;• Request to delete your personal data from our records if it is no longer needed for the purposes indicated above;• Request that your personal data will be restricted from processing in certain circumstances, for example where you have contested the accuracy of your personal data, for the period enabling us to verify its accuracy;• Obtain your personal data in an electronic format;• File a complaint with us and/or the relevant data protection authority; and• Object to us processing your personal data, or tell us to stop processing it (including for purposes of direct marketing).You may exercise these rights by contacting us as detailed in Section 9 below providing your name, email address, account identification, and purposes of your request.7. How long do we keep your personal data?We will retain your personal data for ten years from the date the insurance relationship ends unless a longer retention period is required or as permitted by law.8. How can you contact us?If you have any queries about how we use your personal data, you can contact us by email or post as follows:SNA s.a.l.Data Protection OfficerBuilding 190, Street 702,Hazmieh - BeirutLebanonEmail:dataprivacy@sna.com.lb9. How often do we update this privacy notice?We regularly review this privacy notice. We will ensure the most recent version is available on our websitehttp://www.sna.com.lb/This privacy notice was last updated in September 2023.",
+		"Arabic": "داتا كويست هي شركة استشارية في مجال تكنولوجيا المعلومات متخصصة في تطوير برامج التطبيقات لسوق التأمين. مكرسة للتميز في المنتج وخدمة العملاء ، تأسست الشركة في عام 1983 ، بهدف رئيسي هو مساعدة العملاء على تحقيق قيمة مضافة لمنظماتهم. لا نسعى بأقل من التميز ، فنحن من بين هؤلاء المهنيين الملتزمين بشكل أفضل بالقيم الأساسية للإبداع ونجاح المنتج والعمل الجماعي. وفقًا لبيان مهمتنا ، نود أن نفكر في أنفسنا على أنهم: \"مقدمو الحلول\" حيث يتم طلب المشورة المهنية والموضوعية ، و \"رواد الأعمال\" لأولئك الذين يحتاجون إلى الجودة والفعالية. تغطي مجالات خبرتنا سوق التأمين واستشارات تكنولوجيا المعلومات وتطوير البرمجيات والأنظمة.",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7bf5",
+		"Tag": "claims_screen_title",
+		"English": "My Claims",
+		"Arabic": "مطالباتي",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7bf6",
+		"Tag": "claim_amount_str",
+		"English": "Claim Amount",
+		"Arabic": "مبلغ المطالبة",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7bf7",
+		"Tag": "waiting_missing_docs_str",
+		"English": "Waiting for missing documents",
+		"Arabic": "في انتظار المستندات المفقودة",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7bf8",
+		"Tag": "settled_key",
+		"English": "Settled on",
+		"Arabic": "مبتوت في",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7bf9",
+		"Tag": "approve_settlement",
+		"English": "Approve Settlement",
+		"Arabic": "الموافقة على التسوية",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7bfa",
+		"Tag": "reject_settlement",
+		"English": "Reject Settlement",
+		"Arabic": "رفض التسوية",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7bfb",
+		"Tag": "title_rejection_reason",
+		"English": "Rejection Reason",
+		"Arabic": "سبب الرفض",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7bfc",
+		"Tag": "submit_str",
+		"English": "Submit",
+		"Arabic": "إرسال",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7bfd",
+		"Tag": "my_renewals_str",
+		"English": "My renewals",
+		"Arabic": "تجديداتي",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7bfe",
+		"Tag": "policyNo_str",
+		"English": "Policy No",
+		"Arabic": "رقم الوثيقة",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7bff",
+		"Tag": "death_str",
+		"English": "Death",
+		"Arabic": "الوفاة",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c00",
+		"Tag": "old_premium_str",
+		"English": "Old Premium",
+		"Arabic": "القسط القديمة",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c01",
+		"Tag": "renewal_date_str",
+		"English": "Renewal Date",
+		"Arabic": "تاريخ التجديد",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c02",
+		"Tag": "new_premium_str",
+		"English": "New Premium",
+		"Arabic": "القسط الجديد",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c03",
+		"Tag": "kindly_special_request",
+		"English": "Kindly send us your special request",
+		"Arabic": "ارجو ان ترسل لنا طلبك الخاص",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c04",
+		"Tag": "personal_accident_str",
+		"English": "Personal Accident",
+		"Arabic": "حادث شخصي",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c05",
+		"Tag": "upload_str",
+		"English": "Upload",
+		"Arabic": "تحميل",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c06",
+		"Tag": "premiums_str",
+		"English": "Premiums",
+		"Arabic": "أقساط",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c07",
+		"Tag": "outstanding_premiums_str",
+		"English": "My Outstanding Premiums",
+		"Arabic": "أقساطي المستحقة",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c08",
+		"Tag": "ready_to_settle_str",
+		"English": "Ready To settle Claims",
+		"Arabic": "جاهز لتسوية المطالبات",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c09",
+		"Tag": "oustanding_claims_str",
+		"English": "Outstanding Claims",
+		"Arabic": "المطالبات المعلقة",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c0a",
+		"Tag": "requests_str",
+		"English": "Requests",
+		"Arabic": "الطلبات",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c0b",
+		"Tag": "request_str",
+		"English": "Request",
+		"Arabic": "طلب",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c0c",
+		"Tag": "pending_request_str",
+		"English": "Pending Requests",
+		"Arabic": "الطلبات المعلقة",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c0d",
+		"Tag": "renewals_str",
+		"English": "Renewals",
+		"Arabic": "التجديدات",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c0e",
+		"Tag": "renewal_str",
+		"English": "Renewal",
+		"Arabic": "التجديد",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c0f",
+		"Tag": "cover_desc_deduct_str",
+		"English": "Cover Description & Deductible",
+		"Arabic": "وصف التغطية والمبلغ المقتطع",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c10",
+		"Tag": "sum_insured_str",
+		"English": "Sum Insured /",
+		"Arabic": "مبلغ التأمين / ",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c11",
+		"Tag": "renew_policy_str",
+		"English": "Submit",
+		"Arabic": "تجديد السياسة",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c12",
+		"Tag": "effective_date_str",
+		"English": "Effective Date",
+		"Arabic": "تاريخ النفاذ",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c13",
+		"Tag": "amendment_str",
+		"English": "amendment",
+		"Arabic": "تعديل",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c14",
+		"Tag": "amend_str",
+		"English": "amend",
+		"Arabic": "عدل",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c15",
+		"Tag": "renew_str",
+		"English": "Renew",
+		"Arabic": "تجديد",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c16",
+		"Tag": "send_documents_str",
+		"English": "Send Documents",
+		"Arabic": "إرسال المستندات",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c17",
+		"Tag": "something_went_wrong",
+		"English": "Something went wrong...Try again later",
+		"Arabic": "حدث خطأ ما ... حاول مرة أخرى لاحقًا",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c18",
+		"Tag": "example_phone_str",
+		"English": "Example: +9613111222",
+		"Arabic": "مثال: +9613111222",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c19",
+		"Tag": "policy_str",
+		"English": "Policy Number",
+		"Arabic": "رقم العقد",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c1a",
+		"Tag": "approve_settlement_str",
+		"English": "Approve Settlement",
+		"Arabic": "الموافقة على التسوية",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c1b",
+		"Tag": "reject_settlement_str",
+		"English": "Reject Settlement",
+		"Arabic": "رفض التسوية",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c1c",
+		"Tag": "settled_on_str",
+		"English": "Settled on",
+		"Arabic": "استقر على",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c1d",
+		"Tag": "choose_document",
+		"English": "Document",
+		"Arabic": "وثيقة",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c1e",
+		"Tag": "my_claims_str",
+		"English": "My Claims",
+		"Arabic": "مطالباتي",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c1f",
+		"Tag": "success_str",
+		"English": "Success",
+		"Arabic": "النجاح",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c20",
+		"Tag": "type_rejection_reason_str",
+		"English": "Please type below the reason behind your decision:",
+		"Arabic": "يرجى كتابة السبب وراء قرارك أدناه:",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c21",
+		"Tag": "title_rejection_reason_str",
+		"English": "Rejection Reason",
+		"Arabic": "سبب الرفض",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c22",
+		"Tag": "to_your_mobile_str",
+		"English": "your mobile",
+		"Arabic": "هاتفك النقال",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c23",
+		"Tag": "kindly_special_request_str",
+		"English": "Kindly send us your special request",
+		"Arabic": "ارجو ان ترسل لنا طلبك الخاص",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c24",
+		"Tag": "productName",
+		"English": "Product Name",
+		"Arabic": "إسم المنتج",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c25",
+		"Tag": "cancel_request_question_str",
+		"English": "Are you sure you want to cancel the request?",
+		"Arabic": "هل أنت متأكد أنك تريد إلغاء الطلب؟",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c26",
+		"Tag": "yes_str",
+		"English": "Yes",
+		"Arabic": "أجل",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c27",
+		"Tag": "policyholder",
+		"English": "Policy Holder",
+		"Arabic": "حامل عقد التأمين",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c28",
+		"Tag": "insured",
+		"English": "Insured",
+		"Arabic": "المؤمن",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c29",
+		"Tag": "firstInception",
+		"English": "First Inception",
+		"Arabic": "البداية",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c2a",
+		"Tag": "inception",
+		"English": "Inception",
+		"Arabic": "التأسيس",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c2b",
+		"Tag": "expiry",
+		"English": "Expiry",
+		"Arabic": "مدة الصلاحية",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c2c",
+		"Tag": "inForce",
+		"English": "In Force",
+		"Arabic": "سارية المفعول",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c2d",
+		"Tag": "currency",
+		"English": "Currency",
+		"Arabic": "العملة",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c2e",
+		"Tag": "annualPremium",
+		"English": "Annual Premium",
+		"Arabic": null,
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c2f",
+		"Tag": "frqPayment",
+		"English": "Frequency Payment",
+		"Arabic": "الدفع التكراري",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c30",
+		"Tag": "frqPremium",
+		"English": "Frequency Premium",
+		"Arabic": "معدل التردد",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c31",
+		"Tag": "nextPremium",
+		"English": "Next Premium",
+		"Arabic": "القسط التالي",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c32",
+		"Tag": "agentName",
+		"English": "Agent Name",
+		"Arabic": "اسم الوكيل",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c33",
+		"Tag": "agentType",
+		"English": "Agent Type",
+		"Arabic": "نوع الوكيل",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c34",
+		"Tag": "agentMobile",
+		"English": "Agent Mobile",
+		"Arabic": "رقم هاتف الوكيل",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c35",
+		"Tag": "agentMail",
+		"English": "Agent Mail",
+		"Arabic": "البريد الإلكتروني للوكيل",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c36",
+		"Tag": "whoPays",
+		"English": "Who Pays",
+		"Arabic": "الذي يدفع",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c37",
+		"Tag": "paymentMode",
+		"English": "Payment Mode",
+		"Arabic": "طريقة الدفع",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c38",
+		"Tag": "paymentSchedule",
+		"English": "Payment Schedule",
+		"Arabic": "جدول الدفع",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c39",
+		"Tag": "nbrRisks",
+		"English": "number of Risks",
+		"Arabic": "عدد المخاطر",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c3a",
+		"Tag": "riskEntity",
+		"English": "Risk Entity",
+		"Arabic": "كيان المخاطرة",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c3b",
+		"Tag": "policyStatus",
+		"English": "Policy Status",
+		"Arabic": "حالة العقد",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c3c",
+		"Tag": "policyStatusNotes",
+		"English": "Policy Status Notes",
+		"Arabic": "ملاحظات حول حالة العقد",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c3d",
+		"Tag": "statusDate",
+		"English": "Status Date",
+		"Arabic": "تاريخ الحالة",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c3e",
+		"Tag": "Policy Cancellation",
+		"English": "Policy Cancellation",
+		"Arabic": "إلغاء العقد",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c3f",
+		"Tag": "Policy Amendment",
+		"English": "Policy Amendment",
+		"Arabic": "تعديل السياسة",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c40",
+		"Tag": "contract",
+		"English": "Contract",
+		"Arabic": "العقد",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c41",
+		"Tag": "forgot_pass_str",
+		"English": "Forgot Password",
+		"Arabic": "هل نسيت كلمة السر",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c42",
+		"Tag": "Insured Covers",
+		"English": "Insured Covers",
+		"Arabic": "اغطية مؤمنة",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c43",
+		"Tag": "forgot_pass_question_str",
+		"English": "Forgot Password?",
+		"Arabic": "هل نسيت كلمة السر؟",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c44",
+		"Tag": "insuredRisks",
+		"English": "Insured Risks",
+		"Arabic": "المخاطر المؤمنة",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c45",
+		"Tag": "coverNo",
+		"English": "Cover No",
+		"Arabic": "رقم الغلاف",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c46",
+		"Tag": "insuredCover",
+		"English": "Insured Covers",
+		"Arabic": null,
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c47",
+		"Tag": "deductible",
+		"English": "Deductible",
+		"Arabic": "قابل للخصم",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c48",
+		"Tag": "riskNo",
+		"English": "Risk No",
+		"Arabic": "رقم المخاطرة",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c49",
+		"Tag": "riskAddress",
+		"English": "Risk Address",
+		"Arabic": "عنوان الخطر",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c4a",
+		"Tag": "riskLocation",
+		"English": "Risk Location",
+		"Arabic": "موقع الخطر",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c4b",
+		"Tag": "riskType",
+		"English": "Risk Type",
+		"Arabic": "نوع المخاطرة",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c4c",
+		"Tag": "plotNo",
+		"English": "Plot No",
+		"Arabic": " رقم القطعة",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c4d",
+		"Tag": "Premiums",
+		"English": "Premiums",
+		"Arabic": "أقساط",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c4e",
+		"Tag": "Premium",
+		"English": "Premium",
+		"Arabic": "قسط",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c4f",
+		"Tag": "Ready To settle Claims",
+		"English": "Ready To settle Claims",
+		"Arabic": "جاهز لتسوية المطالبات",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c50",
+		"Tag": "Outstanding Claims",
+		"English": "Outstanding Claims",
+		"Arabic": "مطالبات معلقة",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c51",
+		"Tag": "Requests",
+		"English": "Requests",
+		"Arabic": "طلبات",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c52",
+		"Tag": "Request",
+		"English": "Request",
+		"Arabic": "طلب",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c53",
+		"Tag": "Renewals",
+		"English": "Renewals",
+		"Arabic": "تجديدات",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c54",
+		"Tag": "Renewal",
+		"English": "Renewal",
+		"Arabic": "تجديد",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c55",
+		"Tag": "vehicle",
+		"English": "Vehicle",
+		"Arabic": "السيارة",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c56",
+		"Tag": "Policy Renewal",
+		"English": "Policy Renewal",
+		"Arabic": "تجديد العقد",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c57",
+		"Tag": "vehicleNo",
+		"English": "Vehicle number",
+		"Arabic": "رقم السيارة",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c58",
+		"Tag": "brandName",
+		"English": "Vehicle",
+		"Arabic": "اسم الماركة",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c59",
+		"Tag": "plateNo",
+		"English": "Plate Number",
+		"Arabic": "رقم اللوحة",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c5a",
+		"Tag": "makeYear",
+		"English": "Model",
+		"Arabic": "سنة الصنع",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c5b",
+		"Tag": "chassisNo",
+		"English": "Chassis Number",
+		"Arabic": null,
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c5c",
+		"Tag": "motorNo",
+		"English": "Motor",
+		"Arabic": "رقم المحرك",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c5d",
+		"Tag": "nbrSeats",
+		"English": "Seats",
+		"Arabic": "عدد المقاعد",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c5e",
+		"Tag": "horsePower",
+		"English": "Horse power",
+		"Arabic": "قوة حصان",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c5f",
+		"Tag": "bodyType",
+		"English": "Body",
+		"Arabic": "نوع الهيكل",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c60",
+		"Tag": "vehUsage",
+		"English": "Usage",
+		"Arabic": "استخدام السيارة",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c61",
+		"Tag": "marketValue",
+		"English": "Market Value",
+		"Arabic": "القيمة السوقية",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c62",
+		"Tag": "Partial Surrender",
+		"English": "Partial Surrender",
+		"Arabic": "تنازل جزئي",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c63",
+		"Tag": "advancedlifeData",
+		"English": "Advanced Life Data",
+		"Arabic": "بيانات الحياة المتقدمة",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c64",
+		"Tag": "insuredData",
+		"English": "Insured",
+		"Arabic": "بيانات مؤمنة",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c65",
+		"Tag": "policyTerm",
+		"English": "Policy Term",
+		"Arabic": "مدة الوثيقة",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c66",
+		"Tag": "paymentTerm",
+		"English": "Payment Term",
+		"Arabic": "مدة الدفع",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c67",
+		"Tag": "insPIN",
+		"English": "PIN",
+		"Arabic": "رقم التعريف الشخصي",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c68",
+		"Tag": "insName",
+		"English": "Name",
+		"Arabic": "الأسم",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c69",
+		"Tag": "insGender",
+		"English": "Gender",
+		"Arabic": "الجنس المؤمن",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c6a",
+		"Tag": "insDOB",
+		"English": "Date of Birth",
+		"Arabic": null,
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c6b",
+		"Tag": "insAge",
+		"English": "Age",
+		"Arabic": "عمر المؤمن عليه",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c6c",
+		"Tag": "profession",
+		"English": "Profession",
+		"Arabic": "المهنة",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c6d",
+		"Tag": "insTermAge",
+		"English": "Insured Term Age",
+		"Arabic": "عمر مدة التأمين",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c6e",
+		"Tag": "residency",
+		"English": "Residency",
+		"Arabic": "مكان الاقامة",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c6f",
+		"Tag": "insuredTBC",
+		"English": "Insured TBC",
+		"Arabic": "مؤمن TBC",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c70",
+		"Tag": "travelData",
+		"English": "Travel Data",
+		"Arabic": "بيانات السفر",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c71",
+		"Tag": "passportNo",
+		"English": "Passport Number",
+		"Arabic": "رقم جواز السفر",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c72",
+		"Tag": "coverArea",
+		"English": "Cover Area",
+		"Arabic": "منطقة التغطية",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c73",
+		"Tag": "coverType",
+		"English": "Cover Type",
+		"Arabic": "نوع التغطية",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c74",
+		"Tag": "fromDate",
+		"English": "From Date",
+		"Arabic": "من التاريخ",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c75",
+		"Tag": "untilDate",
+		"English": "Until Date",
+		"Arabic": "حتى تاريخ",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c76",
+		"Tag": "duration",
+		"English": "Duration",
+		"Arabic": "المدة",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c77",
+		"Tag": "destination",
+		"English": "Destination",
+		"Arabic": "الوجهة",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c78",
+		"Tag": "contactPerson",
+		"English": "Contact Person",
+		"Arabic": "الشخص الذي يمكن الاتصال به",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c79",
+		"Tag": "insOccupation",
+		"English": "Occupation Class",
+		"Arabic": "الوظيفة",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c7a",
+		"Tag": "termLifeData",
+		"English": "Term Life Data",
+		"Arabic": "بيانات مصطلح الحياة",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c7b",
+		"Tag": "indmedData",
+		"English": "Indmed Data",
+		"Arabic": "بيانات طبي",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c7c",
+		"Tag": "ipPlan",
+		"English": "In-Patient Plan",
+		"Arabic": "خطة المرضى الداخليين",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c7d",
+		"Tag": "ipClass",
+		"English": "In-Patient Hospitalization Class",
+		"Arabic": "فئة التنويم في المستشفى",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c7e",
+		"Tag": "opPlan",
+		"English": "Out-Patient Plan",
+		"Arabic": "خطة للمرضى الخارجيين",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c7f",
+		"Tag": "insuredPIN",
+		"English": "Insured PIN",
+		"Arabic": "رقم التعريف الشخصي المؤمن",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c80",
+		"Tag": "insuredName",
+		"English": "Insured Name",
+		"Arabic": "اسم المؤمن عليه",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c81",
+		"Tag": "gender",
+		"English": "Gender",
+		"Arabic": "الجنس المؤمن",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c82",
+		"Tag": "dob",
+		"English": "Date Of Birth",
+		"Arabic": "تاريخ الولادة",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c83",
+		"Tag": "tpaCardID",
+		"English": "TPA ID Card",
+		"Arabic": "بطاقة تعريف TPA",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c84",
+		"Tag": "entryDate",
+		"English": "Entry Date",
+		"Arabic": "تاريخ الدخول",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c85",
+		"Tag": "bank_str",
+		"English": "Bank",
+		"Arabic": "بنك",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c86",
+		"Tag": "iban_str",
+		"English": "IBAN",
+		"Arabic": "رقم الحساب",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c87",
+		"Tag": "insNationality",
+		"English": "Nationality",
+		"Arabic": "الجنسية",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c88",
+		"Tag": "claim_no",
+		"English": "Claim Number",
+		"Arabic": null,
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c89",
+		"Tag": "my_requests_str",
+		"English": "My Requests",
+		"Arabic": "طلباتي",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c8a",
+		"Tag": "example_policy_str",
+		"English": "Example: ABC/123456",
+		"Arabic": "مثال: ABC/123456",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c8b",
+		"Tag": "no_str",
+		"English": "No",
+		"Arabic": "لا",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c8c",
+		"Tag": "number_verified_str",
+		"English": "Your Mobile number has been successfully verified.",
+		"Arabic": ".تم التحقق من رقم هاتفك المحمول بنجاح",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c8d",
+		"Tag": "something_went_wrong_str",
+		"English": "Something went wrong, try again later",
+		"Arabic": "حدث خطأ ما ، أعد المحاولة لاحقًا",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c8e",
+		"Tag": "statementOfAccount",
+		"English": "Investment Account",
+		"Arabic": "حساب الإستثمار",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c8f",
+		"Tag": "fundDistribution",
+		"English": "Funds",
+		"Arabic": "موارد مالية",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c90",
+		"Tag": "ipss",
+		"English": "With CNSS?",
+		"Arabic": "مع الضمان؟",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c91",
+		"Tag": "ipDedPct",
+		"English": "Deductible %",
+		"Arabic": "نسبة التحمل داخل المستشفى",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c92",
+		"Tag": "opss",
+		"English": "With CNSS?",
+		"Arabic": "مع الضمان؟",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c93",
+		"Tag": "opDedPct",
+		"English": "Deductible %",
+		"Arabic": "نسبة التحمل خارج المستشفى",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c94",
+		"Tag": "drVisits",
+		"English": "Dr. Visits Covered?",
+		"Arabic": "زيارة الطبيب",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c95",
+		"Tag": "drugs",
+		"English": "Prescribed Drugs Covered?",
+		"Arabic": "الأدوية الموصوفة مغطاة؟",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c96",
+		"Tag": "dental",
+		"English": "Dental Care Covered?",
+		"Arabic": "علاج الأسنان مغطى؟",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c97",
+		"Tag": "optical",
+		"English": "Optical Care Covered?",
+		"Arabic": "علاج البصري مغطاة؟",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c98",
+		"Tag": "SecondOpinion",
+		"English": "Second Opinion Covered?",
+		"Arabic": "الرأي الثاني مغطى؟",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c99",
+		"Tag": "Network",
+		"English": "Network Name",
+		"Arabic": "اسم الشبكة",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c9a",
+		"Tag": "physiotherapy",
+		"English": "Physiotherapy Covered?",
+		"Arabic": "العلاج الطبيعي مغطى؟",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c9b",
+		"Tag": "maternity",
+		"English": "Maternity Covered?",
+		"Arabic": "الأمومة مغطاة؟",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c9c",
+		"Tag": "joinDate",
+		"English": "Join Date",
+		"Arabic": "تاريخ الانضمام",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c9d",
+		"Tag": "guarRenewability",
+		"English": "Guaranteed Renewability Covered?",
+		"Arabic": null,
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c9e",
+		"Tag": "travelAssistance",
+		"English": "Travel Assistance covered?",
+		"Arabic": "مساعدة السفر مغطاة؟",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7c9f",
+		"Tag": "remDays",
+		"English": "Remaining number of days",
+		"Arabic": null,
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7ca0",
+		"Tag": "exclusions",
+		"English": "Has Exclusions?",
+		"Arabic": "هل يوجد استثناءات؟",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7ca1",
+		"Tag": "renewable",
+		"English": "Guaranteed Renewability?",
+		"Arabic": "التجديد المضمون؟",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7ca2",
+		"Tag": "decreasing",
+		"English": "Decreasing Sum Insured?",
+		"Arabic": "تخفيض مبلغ التأمين؟",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7ca3",
+		"Tag": "sumAtRisk",
+		"English": "Sum at Risk",
+		"Arabic": "المبلغ",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7ca4",
+		"Tag": "workAccident",
+		"English": "Work Accident Covered?",
+		"Arabic": "تغطية حادث العمل؟",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7ca5",
+		"Tag": "AdditionalData",
+		"English": "Additional Data",
+		"Arabic": "بيانات إضافية",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7ca6",
+		"Tag": "fill_req_str",
+		"English": "Please state your request",
+		"Arabic": "يرجى ذكر طلبك",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7ca7",
+		"Tag": "email_link_sent_str",
+		"English": "An email with a veriﬁcation link was sent to",
+		"Arabic": "تم إرسال بريد إلكتروني مع رابط تحقق إلى",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7ca8",
+		"Tag": "open_email_str",
+		"English": ".Kindly open your email and click the link in order to proceed.",
+		"Arabic": "يرجى فتح بريدك الإلكتروني والنقر على الرابط للمتابعة.",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7ca9",
+		"Tag": "logout_confirmation_str",
+		"English": "Are you sure you want to logout?",
+		"Arabic": "هل أنت متأكد أنك تريد تسجيل الخروج؟",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7caa",
+		"Tag": "item_insured_str",
+		"English": "Item Insured",
+		"Arabic": "مادة مؤمنة",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7cab",
+		"Tag": "mandatory_reject_reason",
+		"English": "Rejection reason should be filled",
+		"Arabic": "يجب ملء سبب الرفض",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7cac",
+		"Tag": "select_action_str",
+		"English": "Select an action",
+		"Arabic": "اختر إجراء",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7cad",
+		"Tag": "confirm_str",
+		"English": "Confirm",
+		"Arabic": "تأكيد",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7cae",
+		"Tag": "insuredDep",
+		"English": "Dependent",
+		"Arabic": "متكل",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7caf",
+		"Tag": "depName",
+		"English": "Name",
+		"Arabic": "الاسم",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7cb0",
+		"Tag": "depGender",
+		"English": "Gender",
+		"Arabic": "الجنس المؤمن",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7cb1",
+		"Tag": "depDOB",
+		"English": "Date of Birth",
+		"Arabic": "تاريخ الولادة",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7cb2",
+		"Tag": "dpSchooling",
+		"English": "Schooling",
+		"Arabic": "غطاء الدراسة",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7cb3",
+		"Tag": "dpUniversity",
+		"English": "University",
+		"Arabic": "غطاء الجامعة",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7cb4",
+		"Tag": "confirmation_action_str",
+		"English": "Are you sure you want to",
+		"Arabic": "هل أنت متأكد من أنك تريد",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7cb5",
+		"Tag": "Renew As Is",
+		"English": "Renew As Is",
+		"Arabic": "تجديد كما هو",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7cb6",
+		"Tag": "Amend",
+		"English": "Amend",
+		"Arabic": "تريد التعديل",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7cb7",
+		"Tag": "Decline",
+		"English": "Decline",
+		"Arabic": "الرفض",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7cb8",
+		"Tag": "print_policy_str",
+		"English": "Print Policy",
+		"Arabic": "طباعة العقد",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7cb9",
+		"Tag": "print_policy_SOA_str",
+		"English": "Print SOP",
+		"Arabic": null,
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7cba",
+		"Tag": "date_greater_today_str",
+		"English": "Date must be greater than or equal to today",
+		"Arabic": "التاريخ يجب أن يكون أكبر من اليوم",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7cbb",
+		"Tag": "select_bank_IBAN_str",
+		"English": "Select a bank and enter the IBAN number",
+		"Arabic": "حدد مصرفًا وأدخل رقم  الحساب",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7cbc",
+		"Tag": "phMobile",
+		"English": "Policy Holder Mobile",
+		"Arabic": "رقم هاتف",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7cbd",
+		"Tag": "phMail",
+		"English": "Policy Holder Mail",
+		"Arabic": "البريد الإلكتروني",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7cbe",
+		"Tag": "submit_with_att_str",
+		"English": "Submit with Attachment",
+		"Arabic": "إرسال مع إرفاق",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7cbf",
+		"Tag": "enter_modification_str",
+		"English": "Modification text is required",
+		"Arabic": "نص التعديل مطلوب",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7cc0",
+		"Tag": "ipPlanSI",
+		"English": "Sum Insured",
+		"Arabic": "مبلغ التأمين",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7cc1",
+		"Tag": "opPlanSI",
+		"English": "Sum Insured",
+		"Arabic": "مبلغ التأمين",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7cc2",
+		"Tag": "associationCode",
+		"English": "Association Code",
+		"Arabic": "رمز",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7cc3",
+		"Tag": "idType",
+		"English": "ID Type",
+		"Arabic": "بطاقة",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7cc4",
+		"Tag": "idNo",
+		"English": "ID Number",
+		"Arabic": "رقم البطاقة ",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7cc5",
+		"Tag": "confirm_settlment_str",
+		"English": "Confirm Settlement",
+		"Arabic": "تأكيد التسوية",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7cc6",
+		"Tag": "will_be_transferred_str",
+		"English": "will be transfered to your account in",
+		"Arabic": "سوف يتم تحويلها إلى حسابك في",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7cc7",
+		"Tag": "will_be_settled_by_account_str",
+		"English": "will be settled by account. Claim amount will be used to clear premiums.",
+		"Arabic": "سيتم تسويتها عن طريق الحساب. سيتم استخدام مبلغ المطالبة لتصفية الأقساط.",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7cc8",
+		"Tag": "will_be_settled_by_cheque_str",
+		"English": "will be settled by cheque. You will be notified when cheque is issued.",
+		"Arabic": "سيتم تسويتها عن طريق الشيك. سيتم إخطارك عند إصدار الشيك.",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7cc9",
+		"Tag": "amount_of_str",
+		"English": "Amount of",
+		"Arabic": "مبلغ مقداره",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7cca",
+		"Tag": "agent_str",
+		"English": "Agent",
+		"Arabic": "وكيل",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7ccb",
+		"Tag": "policy_payer_str",
+		"English": "Policy Payer",
+		"Arabic": "دافع البوليصة",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7ccc",
+		"Tag": "SkiCovered",
+		"English": "Ski Covered?",
+		"Arabic": "التزلج مغطى؟",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7ccd",
+		"Tag": "Pending",
+		"English": "set to Pending",
+		"Arabic": "التعيين إلى معلق",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7cce",
+		"Tag": "select_option_str",
+		"English": "Select an Option",
+		"Arabic": "حدد أحد الخيارات",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7ccf",
+		"Tag": "insuredCoverData",
+		"English": "Insured Cover",
+		"Arabic": "التغطيات",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7cd0",
+		"Tag": "due_amount_str",
+		"English": "Due Amount",
+		"Arabic": "المبلغ المستحق",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7cd1",
+		"Tag": "find_client_str",
+		"English": "Find Client",
+		"Arabic": "ابحث عن عميل",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7cd2",
+		"Tag": "certificateNo",
+		"English": "Certificate Number",
+		"Arabic": null,
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7cd3",
+		"Tag": "request_status_str",
+		"English": "Request Status",
+		"Arabic": "حالة الطلب",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7cd4",
+		"Tag": "request_notes_str",
+		"English": "Request Notes",
+		"Arabic": "ملاحظات الطلب",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7cd5",
+		"Tag": "rejection_notes_str",
+		"English": "Rejection Notes",
+		"Arabic": "ملاحظات الرفض",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7cd6",
+		"Tag": "cancel_request_str",
+		"English": "Cancel Request",
+		"Arabic": "إلغاء الطلب",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7cd7",
+		"Tag": "status_str",
+		"English": "Status",
+		"Arabic": "الحالة",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7cd8",
+		"Tag": "date_occured_str",
+		"English": "Date Occured",
+		"Arabic": "تاريخ الحدث",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7cd9",
+		"Tag": "date_str",
+		"English": "Date",
+		"Arabic": "التاريخ",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7cda",
+		"Tag": "notes_str",
+		"English": "Notes",
+		"Arabic": "الملاحظات",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7cdb",
+		"Tag": "driver",
+		"English": "Driver",
+		"Arabic": "سائق",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7cdc",
+		"Tag": "winterSports",
+		"English": "Winter Sports",
+		"Arabic": "الرياضات الشتوية",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7cdd",
+		"Tag": "summerSports",
+		"English": "Summer Sports",
+		"Arabic": "الرياضات الصيفية",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7cde",
+		"Tag": "plan",
+		"English": "Plan",
+		"Arabic": "خطة",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7cdf",
+		"Tag": "print_policy_conf_str",
+		"English": "Are you sure you want to print the policy?",
+		"Arabic": "هل أنت متأكد أنك تريد طباعة البوليصة؟",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7ce0",
+		"Tag": "print_policy_SOA_conf_str",
+		"English": "Are you sure you want to print the Statement of Portfolio?",
+		"Arabic": null,
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7ce1",
+		"Tag": "pass_matching_str",
+		"English": "Passwords do not match",
+		"Arabic": "كلمات المرور غير متطابقة",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7ce2",
+		"Tag": "quote_link_url",
+		"English": "http://93.185.236.218:8585",
+		"Arabic": "http://93.185.236.218:8585",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7ce3",
+		"Tag": "get_quote_str",
+		"English": "Get a quote",
+		"Arabic": "احصل على تصريح",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7ce4",
+		"Tag": "directory_str",
+		"English": "Directory",
+		"Arabic": "الدليل",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7ce5",
+		"Tag": "pay_online_str",
+		"English": "Pay Online",
+		"Arabic": "ادفع عبر الإنترنت",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7ce6",
+		"Tag": "check_my_claims_str",
+		"English": "Check my Claims",
+		"Arabic": "تحقق من مطالباتي",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7ce7",
+		"Tag": "no_requests_str",
+		"English": "No Requests available",
+		"Arabic": "لا طلبات متاحة",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7ce8",
+		"Tag": "no_renewals_str",
+		"English": "No Renewals available",
+		"Arabic": "لا تجديدات متاحة",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7ce9",
+		"Tag": "select_currency_str",
+		"English": "Please select your currency",
+		"Arabic": "الرجاء تحديد عملتك",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7cea",
+		"Tag": "settle_prev_premium",
+		"English": "Settle Previous Premium first",
+		"Arabic": "قم بتسوية القسط السابق أولاً",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7ceb",
+		"Tag": "vehicleData",
+		"English": "Vehicle",
+		"Arabic": "السيارة",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7cec",
+		"Tag": "upload_docs",
+		"English": "Upload Documents (up to",
+		"Arabic": "تحميل المستندات (حتى",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7ced",
+		"Tag": "call_str_policy",
+		"English": "Call/SMS Agent",
+		"Arabic": "وكيل المكالمات/الرسائل القصيرة",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7cee",
+		"Tag": "email_str_policy",
+		"English": "E-mail Agent",
+		"Arabic": "وكيل البريد الإلكتروني",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7cef",
+		"Tag": "no_policies_str",
+		"English": "No Policies available",
+		"Arabic": "لا سياسات متاحة",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7cf0",
+		"Tag": "did_not_upload_any_doc",
+		"English": "You did not upload any document, are you sure you want to submit?",
+		"Arabic": "لم تقم بتحميل أي مستند ، هل أنت متأكد أنك تريد الإرسال؟",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7cf1",
+		"Tag": "you_uploaded",
+		"English": "You uploaded",
+		"Arabic": "لقد قمت بتحميل",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7cf2",
+		"Tag": "sure_to_submit_str",
+		"English": "are you sure you want to submit?",
+		"Arabic": "هل أنت متأكد أنك تريد الإرسال؟",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7cf3",
+		"Tag": "documents_str",
+		"English": "documents",
+		"Arabic": "مستندات",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7cf4",
+		"Tag": "document_str",
+		"English": "document",
+		"Arabic": "مستند",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7cf5",
+		"Tag": "one_doc_upload_str_complete",
+		"English": "You uploaded one document, are you sure you want to submit?",
+		"Arabic": "قمت بتحميل مستند واحد ، هل أنت متأكد أنك تريد الإرسال؟",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7cf6",
+		"Tag": "Call/SMS Agent",
+		"English": "Call/SMS Agent",
+		"Arabic": "وكيل المكالمات/الرسائل القصيرة",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7cf7",
+		"Tag": "e-mail Agent",
+		"English": "e-mail Agent",
+		"Arabic": "وكيل البريد الإلكتروني",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7cf8",
+		"Tag": "Email Policy Holder",
+		"English": "Email Policy Holder",
+		"Arabic": "راسل صاحب البوليصة",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7cf9",
+		"Tag": "AdditionalData_ALP",
+		"English": "ALP Plan",
+		"Arabic": "خطة حياة متقدمة",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7cfa",
+		"Tag": "AdditionalData_MED",
+		"English": "Medical Plan",
+		"Arabic": "الخطة الطبية",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7cfb",
+		"Tag": "no_banks_found",
+		"English": "No Banks Found",
+		"Arabic": "لم يتم العثور على بنوك",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7cfc",
+		"Tag": "iban_example_str",
+		"English": "LBXX XXXX XXXX XXXX XXXX XXXX XXXX",
+		"Arabic": "LBXX XXXX XXXX XXXX XXXX XXXX XXXX",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7cfd",
+		"Tag": "Reset to Pending",
+		"English": "Reset to Pending",
+		"Arabic": "إعادة التعيين إلى معلق",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7cfe",
+		"Tag": "example_policy_number_agent",
+		"English": "Example: MAR/126478754",
+		"Arabic": "مثال: MAR/126478754",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7cff",
+		"Tag": "preview_screen_title",
+		"English": "Preview Files",
+		"Arabic": "معاينة الملفات",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7d00",
+		"Tag": "AdditionalData_EXP",
+		"English": "Insured",
+		"Arabic": "المؤمن",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7d01",
+		"Tag": "AdditionalData_UL",
+		"English": "ALP Investment Plan",
+		"Arabic": "خطة حياة إستثمار",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7d02",
+		"Tag": "last_name_req_str",
+		"English": "Last Name is required",
+		"Arabic": "إسم العائلة مطلوب",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7d03",
+		"Tag": "search_by_policy_req",
+		"English": "Enter Policy Number",
+		"Arabic": "أدخل رقم الوثيقة",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7d04",
+		"Tag": "walkthrough_str",
+		"English": "Walkthrough",
+		"Arabic": "إرشادات تفصيلية",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7d05",
+		"Tag": "news_str",
+		"English": "News",
+		"Arabic": "الأخبار",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7d06",
+		"Tag": "insured_with_us",
+		"English": "Are you insured with us?",
+		"Arabic": "هل أنت مؤمن معنا؟",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7d07",
+		"Tag": "products_purchased_online",
+		"English": "Products can be purchased online",
+		"Arabic": "يمكن شراء المنتجات عبر الإنترنت",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7d08",
+		"Tag": "login_to_use_all",
+		"English": "Login to use the full app",
+		"Arabic": "قم بتسجيل الدخول لاستخدام التطبيق الكامل",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7d09",
+		"Tag": "social_media_str",
+		"English": "Please choose your desired platform",
+		"Arabic": "يرجى اختيار منصة التواصل الاجتماعي التي تريدها",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7d0a",
+		"Tag": "payment_method_str",
+		"English": "Payment Method",
+		"Arabic": "طريقة الدفع",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7d0b",
+		"Tag": "claim_settlement_str",
+		"English": "Claim Settlement",
+		"Arabic": null,
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7d0c",
+		"Tag": "declare_claim_str",
+		"English": "Declare a Claim",
+		"Arabic": "أعلن عن المطالبة",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7d0d",
+		"Tag": "continue_to_claim_str",
+		"English": "Continue To Claim Declaration",
+		"Arabic": "الاستمرار في المطالبة بالإعلان",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7d0e",
+		"Tag": "call_expert_str",
+		"English": "Call An Expert",
+		"Arabic": "اتصل بخبير",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7d0f",
+		"Tag": "call_redcross_str",
+		"English": "Call Red Cross Assistance",
+		"Arabic": "اتصل بالصليب الأحمر للمساعدة",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7d10",
+		"Tag": "call_towing_str",
+		"English": "Call Towing Services",
+		"Arabic": "اتصل بخدمة القطر",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7d11",
+		"Tag": "car_details_str",
+		"English": "Car Details",
+		"Arabic": "تفاصيل السيارة",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7d12",
+		"Tag": "select_car_str",
+		"English": "Select your car",
+		"Arabic": "اختر سيارتك",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7d13",
+		"Tag": "continue_str",
+		"English": "Continue",
+		"Arabic": "أكمل",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7d14",
+		"Tag": "accident_location_str",
+		"English": "Accident Location",
+		"Arabic": "مكان الحادث",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7d15",
+		"Tag": "when_accident_happen",
+		"English": "When and where did the accident happen?",
+		"Arabic": "متى وأين وقع الحادث؟",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7d16",
+		"Tag": "location_str",
+		"English": "Location",
+		"Arabic": "الموقع",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7d17",
+		"Tag": "expert_name_str",
+		"English": "Expert Name",
+		"Arabic": "اسم الخبير",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7d18",
+		"Tag": "accident_date_str",
+		"English": "Accident Date",
+		"Arabic": "تاريخ وقوع الحادث",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7d19",
+		"Tag": "all_fields_mandatory_str",
+		"English": "Please Fill all the needed fields",
+		"Arabic": "يرجى ملء جميع الحقول المطلوبة",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7d1a",
+		"Tag": "driving_car_str",
+		"English": "I am the person driving the car",
+		"Arabic": "أنا الشخص الذي يقود السيارة",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7d1b",
+		"Tag": "phone_number_str",
+		"English": "Phone Number",
+		"Arabic": "رقم الهاتف",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7d1c",
+		"Tag": "driver_full_name_str",
+		"English": "Driver Full Name",
+		"Arabic": "الاسم الكامل للسائق",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7d1d",
+		"Tag": "who_responsible_str",
+		"English": "Who is responsible for the damage in your opinion?",
+		"Arabic": "من المسؤول عن الضرر في نظرك؟",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7d1e",
+		"Tag": "driver_details_str",
+		"English": "Driver Details",
+		"Arabic": "تفاصيل السائق",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7d1f",
+		"Tag": "fnol_both_str",
+		"English": "Both",
+		"Arabic": "كلاهما",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7d20",
+		"Tag": "fnol_oponent_str",
+		"English": "Opponent",
+		"Arabic": "الخصم",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7d21",
+		"Tag": "fnol_me_str",
+		"English": "Me",
+		"Arabic": "أنا",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7d22",
+		"Tag": "damages_str",
+		"English": "Damages",
+		"Arabic": "Damages",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7d23",
+		"Tag": "who_what_damages_str",
+		"English": "Who or what has been damaged?",
+		"Arabic": "من أو ما الذي تضرر؟",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7d24",
+		"Tag": "select_one_str",
+		"English": "Select one or more options below",
+		"Arabic": "حدد واحداً أو أكثر من الخيارات أدناه",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7d25",
+		"Tag": "select_at_least_str",
+		"English": "Select at least one choice",
+		"Arabic": "اختر خيارًا واحدًا على الأقل",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7d26",
+		"Tag": "your_car_str",
+		"English": "YOUR CAR",
+		"Arabic": "سيارتك",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7d27",
+		"Tag": "select_damage_str",
+		"English": "Select the damage of",
+		"Arabic": "حدد الأضرار التي لحقت",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7d28",
+		"Tag": "thrid_party_car_str",
+		"English": "THIRD PARTY CAR",
+		"Arabic": "سيارة الطرف الثاني",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7d29",
+		"Tag": "photos_str",
+		"English": "Photos",
+		"Arabic": "الصور",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7d2a",
+		"Tag": "fnol_material_needed_str",
+		"English": "We need some photo material from you",
+		"Arabic": "نحتاج لبعض المواد المصورة منك",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7d2b",
+		"Tag": "fnol_photos_of_car",
+		"English": "Photos of car documents",
+		"Arabic": "صور وثائق السيارة",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7d2c",
+		"Tag": "fnol_photos_license",
+		"English": "Photos of driving license",
+		"Arabic": "صور رخصة القيادة",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7d2d",
+		"Tag": "damages_photo_str",
+		"English": "Photos of damages",
+		"Arabic": "صور الأضرار",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7d2e",
+		"Tag": "other_photos_optional",
+		"English": "Other Photo (Optional)",
+		"Arabic": "صور أخرى (اختياري)",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7d2f",
+		"Tag": "fnol_vehicle_reg_recto",
+		"English": "Vehicle Registration recto",
+		"Arabic": "صفحة تسجيل المركبة",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7d30",
+		"Tag": "fnol_vehicle_reg_verso",
+		"English": "Vehicle Registration verso",
+		"Arabic": "تسجيل المركبات على الجانب الخلفي",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7d31",
+		"Tag": "fnol_driver_license_recto",
+		"English": "Driving License recto",
+		"Arabic": "وجه رخصة القيادة",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7d32",
+		"Tag": "fnol_driver_license_verso",
+		"English": "Driving License verso",
+		"Arabic": "رخصة القيادة على الجانب الآخر",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7d33",
+		"Tag": "accident_details_str",
+		"English": "Accident Details",
+		"Arabic": "تفاصيل الحادث",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7d34",
+		"Tag": "describe_accident_happened",
+		"English": "Describe how the accident happened",
+		"Arabic": "قمت بوصف كيف وقع الحادث",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7d35",
+		"Tag": "submit_claim_str",
+		"English": "Submit Claim",
+		"Arabic": "إرسال المطالبة",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7d36",
+		"Tag": "you_can_submit_claim",
+		"English": "You can submit your claim now",
+		"Arabic": "يمكنك تقديم مطالبتك الآن",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7d37",
+		"Tag": "confirm_claim_submit_str",
+		"English": "Please confirm that you have answered all questions truthfully and accept our terms of use",
+		"Arabic": "يرجى التأكد من أنك أجبت على جميع الأسئلة بصدق وقبول شروط الاستخدام الخاصة بنا",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7d38",
+		"Tag": "submit_claim_decla_str",
+		"English": "I hereby declare that all above provided information are true and that false information can stop the claim payment. \\nThis declaration does not exempt the insured from his obligation towards SNA in respect of policy’s terms and conditions",
+		"Arabic": null,
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7d39",
+		"Tag": "finished_claim_str",
+		"English": "You finished the notifications of loss",
+		"Arabic": "لقد انتهيت من إخطارات الخسارة",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7d3a",
+		"Tag": "finish_str",
+		"English": "Finish",
+		"Arabic": "إنهاء",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7d3b",
+		"Tag": "accept_alert_str",
+		"English": "You should approve the above",
+		"Arabic": "يجب عليك الموافقة على ما ورد أعلاه",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7d3c",
+		"Tag": "claim_id_str",
+		"English": "Your Claim ID",
+		"Arabic": "رقم المطالبة الخاص بك",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7d3d",
+		"Tag": "all_done_str",
+		"English": "All Done",
+		"Arabic": "تم كل شيء",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7d3e",
+		"Tag": "claim_contact_info",
+		"English": "Your claim summary has been sent to your email: mail@mail.com. \\nYou can contact us anytime on {CLAIM_CONTACT_US_NUMBER}",
+		"Arabic": null,
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7d3f",
+		"Tag": "repair_shop_str",
+		"English": "Repair Shop",
+		"Arabic": "محل تصليح",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7d40",
+		"Tag": "choose_repair_str",
+		"English": "Choose a repair shop",
+		"Arabic": "اختر محل إصلاح",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7d41",
+		"Tag": "nearest_expert_str",
+		"English": "Click here to \\nfind the nearest expert",
+		"Arabic": null,
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7d42",
+		"Tag": "choose_nearest_expert_str",
+		"English": "Choose your nearest expert",
+		"Arabic": "اختر أقرب خبير لك",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7d43",
+		"Tag": "map_str",
+		"English": "Map",
+		"Arabic": "الخريطة",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7d44",
+		"Tag": "list_key",
+		"English": "List",
+		"Arabic": "القائمة",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7d45",
+		"Tag": "car_doc_driving_licence_alert",
+		"English": "Please provide at least one car document photo and one driving licence photo",
+		"Arabic": "يرجى تقديم صورة واحدة على الأقل لوثيقة السيارة وصورة واحدة لرخصة القيادة",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7d46",
+		"Tag": "enter_accident_details_str",
+		"English": "Enter accident details",
+		"Arabic": "أدخل تفاصيل الحادث",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7d47",
+		"Tag": "select_all_damages",
+		"English": "Select all applied damages",
+		"Arabic": "حدد جميع الأضرار المطبقة",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7d48",
+		"Tag": "uploading_str",
+		"English": "Uploading...Please wait",
+		"Arabic": "جارٍ التحميل...يرجى الانتظار",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7d49",
+		"Tag": "semi_mandatory_alert",
+		"English": "Car Documents and Driving license should be later sent to the company to proceed with the claim",
+		"Arabic": "يجب إرسال مستندات السيارة ورخصة القيادة لاحقًا إلى الشركة لمتابعة المطالبة",
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7d4a",
+		"Tag": "call_expert_name_str",
+		"English": "Call An Expert",
+		"Arabic": null,
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7d4b",
+		"Tag": "call_towing_name_str",
+		"English": "Call Towing Services",
+		"Arabic": null,
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7d4c",
+		"Tag": "no_cars_found_str",
+		"English": "No Vehicles to Declare",
+		"Arabic": null,
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7d4d",
+		"Tag": "sure_to_remove_str",
+		"English": "Are you sure you want to remove the uploaded document?",
+		"Arabic": null,
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7d4e",
+		"Tag": "remove_str",
+		"English": "Remove",
+		"Arabic": null,
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7d4f",
+		"Tag": "partial_payment_not_allowed",
+		"English": "Partial payments are not allowed",
+		"Arabic": null,
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7d50",
+		"Tag": "will_be_settled_by_wish_str",
+		"English": "will be settled by Wish offices. You will be notified by email to proceed your operation.",
+		"Arabic": null,
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7d51",
+		"Tag": "no_experts_near_str",
+		"English": "No Experts Near you",
+		"Arabic": null,
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7d52",
+		"Tag": "found_on_policies",
+		"English": "Can be found on your policies",
+		"Arabic": null,
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7d53",
+		"Tag": "choose_web_user_ID",
+		"English": "Choose your User Name",
+		"Arabic": null,
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7d54",
+		"Tag": "nearest_expert_title_str",
+		"English": "Nearest Expert",
+		"Arabic": null,
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7d55",
+		"Tag": "about_us_SNA_Overview",
+		"English": "SNA Overview",
+		"Arabic": null,
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7d56",
+		"Tag": "about_us_SNA_1",
+		"English": "SNA Lebanon, established in Beirut in 1963, is a wholly owned subsidiary of Global Gate Capital since 2023. The company has a customer base exceeding 45,000. With a presence in over 16 offices and a workforce comprising more than 200 employees and 350 Sales Agents.\\n\\nAfter being part of the Allianz Group for over a decade, we proudly reintroduce our legacy brand, SNA, with the same management, culture and commitment towards our stakeholders and the wider society. With Global Gate Capital's rich international insights and SNA’s robust local understanding the future of insurance is bright.",
+		"Arabic": null,
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7d57",
+		"Tag": "about_us_global_capital",
+		"English": "Global gate Capital Overview",
+		"Arabic": null,
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7d58",
+		"Tag": "about_us_SNA_2",
+		"English": "An international investment firm that invests its own and its clients’ capital into multiple asset classes globally, including insurance, real estate, private equity, credit and listed securities. The firm also provides corporate advisory services to its select client base. With offices in London, Geneva, New York, Dubai and Beirut, Global Gate has grown its assets under management to over $5 billion since its founding in 2013.",
+		"Arabic": null,
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7d59",
+		"Tag": "about_us_our_mission",
+		"English": "Our Mission",
+		"Arabic": null,
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7d5a",
+		"Tag": "about_us_SNA_3",
+		"English": "To deliver prime and innovative insurance solutions as well as financial protection, granting you unique safety and security through our solid capital, while anticipating the market’s dynamic needs.",
+		"Arabic": null,
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7d5b",
+		"Tag": "about_us_SNA_4",
+		"English": "To be your partner of choice,\\nembracing excellence from generation to generation.",
+		"Arabic": null,
+		"French": null,
+		"Spanish": null,
+		"German": null
+	},
+	{
+		"_id": "6736f3f30f20fdc561df7d5c",
+		"Tag": "about_us_our_vision",
+		"English": "Our Vision",
+		"Arabic": null,
+		"French": null,
+		"Spanish": null,
+		"German": null
+	}
+]
